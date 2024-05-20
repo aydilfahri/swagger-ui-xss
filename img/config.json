@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss_img.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss_img.yaml",
+            "name": "XSS-fetch-img payload"
+        }
+    ]
+}
