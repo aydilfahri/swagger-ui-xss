@@ -11,4 +11,4 @@ Swagger UI version affected: `>=3.14.1` &lt; `3.38.0`
 
 
 
-Thank to: https://github.com/VictorNS69/swagger-ui-xss/
+Thanks to: https://github.com/VictorNS69/swagger-ui-xss/
