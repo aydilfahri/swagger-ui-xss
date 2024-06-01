@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss-fetch2.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss-fetch2.yaml",
+            "name": "Foo"
+        }
+    ]
+}
