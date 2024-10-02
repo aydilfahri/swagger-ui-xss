@@ -1,0 +1,9 @@
+{
+    "url": "https://tearful-earth.surge.sh/test.yaml",
+    "urls": [
+        {
+            "url": "https://tearful-earth.surge.sh/test.yaml",
+            "name": "PoC"
+        }
+    ]
+}
