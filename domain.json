@@ -1,0 +1,9 @@
+{
+    "url": "https://exuberant-ice.surge.sh/test.yaml",
+    "urls": [
+        {
+            "url": "https://exuberant-ice.surge.sh/test.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
